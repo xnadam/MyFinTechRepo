@@ -1,6 +1,8 @@
 # This is the Header for the MyFinTechRepo README doc
 
-![Cat is happy to learn FinTech!](happycat.jpg)
+![Cat is happy to learn FinTech!](file://C/Users/12130/Git/FinTech/FinTechClassRepo/happycat.jpg)
+
+
 
 * Happy Cat is happy to learn FinTech!
 
